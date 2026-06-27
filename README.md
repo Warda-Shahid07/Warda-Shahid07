@@ -16,9 +16,9 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shiiwarda07&color=ff9eb5&style=flat-square&label=✨+visitors)](https://github.com/shiiwarda07)
+[![Profile Views](https://komarev.com/ghpvc/?username=Warda-Shahid07&color=ff9eb5&style=flat-square&label=✨+visitors)](https://github.com/Warda-Shahid07)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/shiiwarda07?style=flat-square&color=ffb6c1&labelColor=2d2d2d&label=🌸+followers)](https://github.com/shiiwarda07)
+[![GitHub followers](https://img.shields.io/github/followers/Warda-Shahid07?style=flat-square&color=ffb6c1&labelColor=2d2d2d&label=🌸+followers)](https://github.com/Warda-Shahid07)
 
 </div>
 
@@ -131,17 +131,17 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiiwarda07&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=FFB6C1&icon_color=ffb6c1&text_color=e8c4d4&ring_color=FFB6C1&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Warda-Shahid07&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=FFB6C1&icon_color=ffb6c1&text_color=e8c4d4&ring_color=FFB6C1&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiiwarda07&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=FFB6C1&text_color=e8c4d4" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Warda-Shahid07&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=FFB6C1&text_color=e8c4d4" />
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app?user=shiiwarda07&hide_border=true&background=1a1a2e&ring=FFB6C1&fire=ff9eb5&currStreakLabel=FFB6C1&sideLabels=C0C0C0&dates=888888&stroke=ffb6c1" />
+<img src="https://nirzak-streak-stats.vercel.app?user=Warda-Shahid07&hide_border=true&background=1a1a2e&ring=FFB6C1&fire=ff9eb5&currStreakLabel=FFB6C1&sideLabels=C0C0C0&dates=888888&stroke=ffb6c1" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiiwarda07&bg_color=1a1a2e&color=FFB6C1&line=e8c4d4&point=FFB6C1&area=true&hide_border=true&custom_title=🌸+Contribution+Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Warda-Shahid07&bg_color=1a1a2e&color=FFB6C1&line=e8c4d4&point=FFB6C1&area=true&hide_border=true&custom_title=🌸+Contribution+Activity" />
 
 </div>
 
@@ -153,7 +153,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=shiiwarda07&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Warda-Shahid07&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
